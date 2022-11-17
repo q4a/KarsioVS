@@ -6,7 +6,8 @@
 #define PROJECTKARSIO_ENTITY_H
 
 #include <glm/glm.hpp>
-#include "vector"
+#include <string>
+#include <vector>
 #include <glm/gtc/quaternion.hpp>
 #include "Event.h"
 #include "Component.h"
